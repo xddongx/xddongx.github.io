@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "DongHyeon Kim"
-description:	       "Jekyll을 이용한 "
+description:	       "Jekyll을 이용한 Blog "
 author:              "Donghyeon Kim"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
