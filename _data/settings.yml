@@ -6,7 +6,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'About Me', folder: 'pages', file: 'About_Me.html'}
+- {name: 'About Me', folder: 'pages', file: 'fact.html'}
 - {name: '사용언어', folder: 'pages', file: 'resources.html'}
 - {name: '그다음뭐지?', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Fork', folder: 'pages', file: 'documentation.html'}
