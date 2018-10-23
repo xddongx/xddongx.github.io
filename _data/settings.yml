@@ -7,11 +7,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'About Me', folder: 'pages', file: 'facts.html'}
-- {name: '사용언어', folder: 'pages', file: 'resources.html'}
-- {name: '그다음뭐지?', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Language', folder: 'pages', file: 'resources.html'}
+- {name: 'project', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Fork', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
