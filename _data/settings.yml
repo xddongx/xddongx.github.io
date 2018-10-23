@@ -9,7 +9,7 @@ menu:
 - {name: '자기소개', folder: 'pages', file: 'facts.html'}
 - {name: '사용언어', folder: 'pages', file: 'resources.html'}
 - {name: '그다음뭐지?', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Fork', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
