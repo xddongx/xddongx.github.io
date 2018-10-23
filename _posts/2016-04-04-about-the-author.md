@@ -3,10 +3,9 @@ layout: post
 title: "About Me"
 author: "DongHyeon Kim"
 categories: facts
-tags: [sample]
+
 image: cuba-4.jpg
 ---
-
 # 자기소개
 * 김동현
 * 컴퓨터공학과 2012107137학번
