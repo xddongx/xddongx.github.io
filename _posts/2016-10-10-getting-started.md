@@ -4,7 +4,7 @@ title: "Project"
 author: "DongHyeon Kim"
 categories: documentation
 
-image: project.jpg
+image: project.jpg, project-2.jpg, project-3.jpg
 ---
 ![pg](C:\Users\rlaeh\OneDrive\문서\GitHub\xddongx.github.io\assets\img)
 # Project
