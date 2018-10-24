@@ -4,7 +4,7 @@ title: "Project"
 author: "DongHyeon Kim"
 categories: sample-posts
 
-image: project.jpg project-2.jpg
+image: project.jpg
 ---
 
 # Project
